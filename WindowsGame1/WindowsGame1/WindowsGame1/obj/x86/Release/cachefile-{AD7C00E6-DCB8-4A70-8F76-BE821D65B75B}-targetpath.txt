@@ -1,0 +1,10 @@
+Content\425-sozdanie-kosmicheskoy-strelyalki-v-hge-chast-1.xnb
+Content\Kosmos1.xnb
+Content\bullet.xnb
+Content\enemy2.xnb
+Content\SpaceShip.xnb
+Content\enemy1.xnb
+Content\enemy3.xnb
+Content\laser.xnb
+Content\bonus.xnb
+Content\GameFont.xnb
